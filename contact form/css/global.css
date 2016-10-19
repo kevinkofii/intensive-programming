@@ -1,0 +1,26 @@
+p{
+
+    background-color: lightblue;
+}
+h1 {
+    color: black; text-decoration: underline;
+
+}
+p{ width: 200px;
+
+}
+
+span {
+    background-color: #4CAF50;
+    color: white;
+    display: inline-block;
+}
+label{ display: block; 
+}
+input {display: block;
+}
+
+textarea {
+    width: 500px
+    height: 250px;
+}

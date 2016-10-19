@@ -1,0 +1,12 @@
+body{
+
+    background-color: orange;
+    color:white;
+}
+.bold{
+font-size: 50px;
+}
+img{:block;}
+
+img{ display: block; width: 100px;
+ }
